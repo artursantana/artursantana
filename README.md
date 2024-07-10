@@ -1,6 +1,5 @@
 ## Hi there 👋
-Hey 👋, I'm Jorge
-jorgefperes
+Hey 👋, I'm Artur
 
 🔭 Software engineer junior at Critérios360(Elite)
 🌱 Currently working with ReactJS, NextJs, mongoDB
