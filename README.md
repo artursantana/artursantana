@@ -1,11 +1,11 @@
 ## Hey 👋, I'm Artur👋
 
+![artursantana GitHub stats](https://github-readme-stats.vercel.app/api?username=artursantana&show_icons=true&theme=radical)
+
+
 <div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=artursantana&layout=compact&langs_count=16&theme=dracula'/>
 </div>
-<br>
 
 🔭 Software engineer junior at Critérios360(Elite)
 🌱 Currently working with ReactJS, NextJs, mongoDB
@@ -32,14 +32,3 @@
  
 ![Snake animation](https://github.com/artursantana/artursantana/blob/output/github-contribution-grid-snake.svg)
 
-
-
-![artursantana GitHub stats](https://github-readme-stats.vercel.app/api?username=artursantana&show_icons=true&theme=radical)
-
-
-<div>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=artursantana&layout=compact&langs_count=16&theme=dracula'/>
-</div>
-
-
-![Snake animation](https://github.com/artursantana/artursantana/blob/output/github-contribution-grid-snake.svg)
