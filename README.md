@@ -16,3 +16,6 @@
 <div>
   <img>
 </div>
+
+
+![Snake animation](https://github.com/artursantana/artursantana/blob/output/github-contribution-grid-snake.svg)
