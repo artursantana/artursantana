@@ -14,8 +14,8 @@
 
 
 <div>
-  <img src='![Snake animation](https://github.com/artursantana/artursantana/blob/output/github-contribution-grid-snake.svg)'/>
+  <img src='https://github-readme-stats.vercel.app/api?username=artursantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true'/>
 </div>
 
 
-
+![Snake animation](https://github.com/artursantana/artursantana/blob/output/github-contribution-grid-snake.svg)
