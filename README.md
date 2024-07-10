@@ -1,5 +1,4 @@
-## Hi there 👋
-Hey 👋, I'm Artur
+## Hey 👋, I'm Artur👋
 
 🔭 Software engineer junior at Critérios360(Elite)
 🌱 Currently working with ReactJS, NextJs, mongoDB
@@ -9,3 +8,4 @@ Hey 👋, I'm Artur
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artur.santana.843?igsh=MWJubnZoMmc1M3BkYQ%3D%3D&utm_source=qr)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ_tKxK_p0b8w65g4FBDtGA)
 
+![artursantana GitHub stats](https://github-readme-stats.vercel.app/api?username=artursantana&show_icons=true&theme=radical)
