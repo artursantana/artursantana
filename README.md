@@ -3,8 +3,8 @@
 ![artursantana GitHub stats](https://github-readme-stats.vercel.app/api?username=artursantana&show_icons=true&theme=radical)
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=artursantana&layout=compact&langs_count=16&theme=dracula'/>
 
-🔭 Software engineer junior at Critérios360(Elite)
-🌱 Currently working with ReactJS, NextJs, mongoDB
+🔭 Software engineer junior at Task4iT
+🌱 Currently working with JavaScritpt,ReactJS, NextJs, TypeScript
 🤝 Looking to collaborate.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-santana-8a9902238)
